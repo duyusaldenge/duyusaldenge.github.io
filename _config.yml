@@ -1,16 +1,16 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Duyusal Denge
+subtitle: Fizyoterapi Merkezi
+email: duyusaldenge@gmail.com
+description: description yazısı
 baseurl: #"/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: https://duyusaldenge.github.io
 author:
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+city: Antalya
+state: TR
 zip_code: 55555
-country: United States of America
+country: Turkey
 phone: (716) 555-5555
 
 # homepage tiles
