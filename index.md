@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Antalya'da Bir Sağlık Merkezi'
+landing-title: "Antalya'da Bir Sağlık Merkezi"
 description: null
 image: null
 author: null
