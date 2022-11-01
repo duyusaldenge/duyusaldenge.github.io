@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Anasayfa
 landing-title: "Antalya'da Bir Sağlık Merkezi"
 description: null
 image: null
