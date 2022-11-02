@@ -2,7 +2,7 @@
 title: Hakkımızda
 layout: landing
 description: 'Çalışanlarımız ve Yaptıklarımız'
-image: assets\images\hakkimizda.webp
+image: assets\images\hakkimizda.jpg
 nav-menu: true
 ---
 
