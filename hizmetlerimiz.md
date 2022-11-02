@@ -1,8 +1,8 @@
 ---
-title: Hakkımızda
+title: Hizmetlerimiz
 layout: landing
-description: 'Çalışanlarımız ve Yaptıklarımız'
-image: assets/images/pic07.jpg
+description: 'Verdiğimiz Hizmetler ve Detayları'
+image: assets/images/hizmet.jpg
 nav-menu: true
 ---
 

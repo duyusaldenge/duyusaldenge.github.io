@@ -10,8 +10,7 @@ image: assets/images/hacamat-faydalari.jpg
 
 ---
 
-<h1>All posts</h1>
-
+xsgfesgf
 <p align="center">
   <img src="assets/images/hacamat.jpg" />
 </p>
