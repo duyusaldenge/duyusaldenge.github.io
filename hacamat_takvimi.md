@@ -7,6 +7,7 @@ description: "Aylık Olarak Hacamat Günleri"
 author: null
 image: assets/images/hacamat-faydalari.jpg
 show_tile: true
+show_image: true
 
 ---
 
